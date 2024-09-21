@@ -5,10 +5,15 @@ This is a basic TypeScript project that implements a simple `BankAccount` class.
 ## Project Structure
 
 ├── src/
+
 │ └── BankAccount.ts # Main implementation of the BankAccount class
+
 ├── test/ # Test directory (empty in this branch)
+
 ├── package.json
+
 ├── tsconfig.json
+
 └── jest.config.js
 
 ## Installation
@@ -69,4 +74,5 @@ npm test
 ## Hint
 
 **main**: Contains the BankAccount class implementation. You are expected to create your tests in this branch.
+
 **solution**: Contains example tests for the BankAccount class.
